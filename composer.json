@@ -1,6 +1,6 @@
 {
     "name": "spryker-feature/productoffershipment",
-    "description": "ProductOfferShipment [feature]",
+    "description": "Product Offer Shipment [feature]",
     "type": "metapackage",
     "license": "proprietary",
     "minimum-stability": "dev",
