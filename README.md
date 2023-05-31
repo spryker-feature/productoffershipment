@@ -1,4 +1,4 @@
-# Spryker Feature: ProductOfferShipment
+# Spryker Feature: Product Offer Shipment
 
 
 
